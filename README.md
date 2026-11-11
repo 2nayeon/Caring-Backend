@@ -167,6 +167,10 @@ policy, welfare_facility (독립 테이블)
 - 대상자 설정, 마이페이지 내 정보 조회와 주소 수정, 약관 조회 API
 - 알림함(알림 기록 조회, 읽음 처리) 구현
 
+## 시연 영상
+
+[![Caring 시연 영상](https://img.youtube.com/vi/wgn8nhZLSQI/hqdefault.jpg)](https://youtu.be/wgn8nhZLSQI)
+
 ## 화면
 
 앱 화면은 프론트엔드 팀원이 구현했으며, 백엔드 API와 연동된 결과입니다.
